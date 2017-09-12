@@ -1,0 +1,23 @@
+{
+  "name": "lorin-website",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorin19881101/lorin-website.git"
+  },
+  "keywords": [
+    "website\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dlo\u001b[C\u001b[C\u001b[website\u001b[D\u001b[personal",
+    "website"
+  ],
+  "author": "Lorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorin19881101/lorin-website/issues"
+  },
+  "homepage": "https://github.com/lorin19881101/lorin-website#readme"
+}
