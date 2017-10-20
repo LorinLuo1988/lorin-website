@@ -4,7 +4,11 @@
   "description": "personal website",
   "main": "index.js",
   "scripts": {
-    "test": "npm run dev"
+    "test": "npm run dev",
+    "tcp-server": "node ./learn/tcp-server.js",
+    "tcp-client": "node ./learn/tcp-client.js",
+    "http-server": "node ./learn/http-server.js",
+    "http-client": "node ./learn/http-client.js"
   },
   "repository": {
     "type": "git",
